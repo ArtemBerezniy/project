@@ -36,4 +36,7 @@
 
 // const user = 'Artem';
 
+const nam = "artem";
+console.log(nam);
+
 // alert(`Hello, ${user}`);
